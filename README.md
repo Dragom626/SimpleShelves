@@ -1,5 +1,5 @@
 # Page notes:
-I am not the auther of this mod, I simply updated it for personal use and will take it down at the request of the
+I am not the author of this mod, I simply updated it for personal use and will take it down at the request of the
 author of the mod. Link to mod author page: https://github.com/Pinaz993/SimpleShelves
 
 
