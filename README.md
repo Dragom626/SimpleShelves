@@ -1,3 +1,9 @@
+#Page notes:
+I am not the auther of this mod, I simply updated it for personal use and will take it down at the request of the
+author of the mod. Link to mod author page: https://github.com/Pinaz993/SimpleShelves
+
+
+
 # SimpleShelves
 Fabric mod for 1.17 and up. Adds shelves to display items and books. Heavily inspired by BiblioCraft, but
 coded entirely independently of said mod. 
